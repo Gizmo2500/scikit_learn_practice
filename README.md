@@ -6,4 +6,4 @@ Here are the packages I am currently using:
 - Numpy
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebooks
+- Jupyter Notebook
